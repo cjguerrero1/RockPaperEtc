@@ -1,0 +1,6 @@
+c:\users\cjgue\onedrive\documents\visual studio 2015\Projects\GradedRockPaperEtc\GradedRockPaperEtc\bin\Debug\GradedRockPaperEtc.exe.config
+c:\users\cjgue\onedrive\documents\visual studio 2015\Projects\GradedRockPaperEtc\GradedRockPaperEtc\bin\Debug\GradedRockPaperEtc.exe
+c:\users\cjgue\onedrive\documents\visual studio 2015\Projects\GradedRockPaperEtc\GradedRockPaperEtc\bin\Debug\GradedRockPaperEtc.pdb
+c:\users\cjgue\onedrive\documents\visual studio 2015\Projects\GradedRockPaperEtc\GradedRockPaperEtc\obj\Debug\GradedRockPaperEtc.csprojResolveAssemblyReference.cache
+c:\users\cjgue\onedrive\documents\visual studio 2015\Projects\GradedRockPaperEtc\GradedRockPaperEtc\obj\Debug\GradedRockPaperEtc.exe
+c:\users\cjgue\onedrive\documents\visual studio 2015\Projects\GradedRockPaperEtc\GradedRockPaperEtc\obj\Debug\GradedRockPaperEtc.pdb
