@@ -20,7 +20,7 @@ namespace GradedRockPaperEtc
         
         public virtual void GetPlayerChoice()
         {
-            Console.WriteLine(this.name + " 1 for rock, 2 for paper, 3 for scissors, 4 for spock, 5 for lizard: ");
+            Console.WriteLine(this.name + ", enter 1 for rock, 2 for paper, 3 for scissors, 4 for spock, 5 for lizard: ");
             playerChoice = int.Parse(Console.ReadLine());
             Console.Clear();
             switch (playerChoice)
